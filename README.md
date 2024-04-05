@@ -9,6 +9,6 @@
 # Backend Technology Database :
 # MongoDB
 
-# Payment 
+# Payment Gateway :
 
 
