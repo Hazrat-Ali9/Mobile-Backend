@@ -9,7 +9,7 @@
 # Backend Technology Database :
 # MongoDB
 
-# Payment Gateway :
-# Stripe
+# Payment Gateway : Stripe
+
 
 
