@@ -1,4 +1,4 @@
-//ProfileSchema
+//ProfileSchemajs
 const { Schema } = require("mongoose");
 
 const profileSchema = new Schema({
