@@ -6,7 +6,7 @@
 # Backend Technology :
 # Nodejs
 
-# Backend Technology Database :
+# Database :
 # MongoDB
 
 # Payment Gateway : Stripe
