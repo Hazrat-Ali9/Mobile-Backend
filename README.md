@@ -3,7 +3,7 @@
 # Project Name : Mobile Shop
 
 
-# Server Technology :
+# Backend Technology :
 # Nodejs
 
 # Backend Technology Database :
