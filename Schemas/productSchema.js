@@ -1,4 +1,4 @@
-//productSchemajs
+//Product Schemajs
 const mongoose = require('mongoose')
 
 const productSchema = mongoose.Schema({
