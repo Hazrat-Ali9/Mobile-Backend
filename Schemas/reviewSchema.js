@@ -1,4 +1,4 @@
-//ReviewSchemajs
+//Review Schemajs
 const {Schema} = require('mongoose')
 
 const reviewShema = new Schema({
